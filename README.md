@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is nabil and I'm a student, from Egypt</p>
+<p align="left">My name is Nabil and I'm Sophomore , from Egypt</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since... yesterday, today, and forever.<br>📚 I'm currently learning... how to turn coffee into code and bugs into features.<br>🎯 Goals: To fix one bug and create three more in the process.<br>🎲 Fun fact: My code doesn’t have bugs; it just develops unexpected features!</p>
+<p align="left">✨ Creating bugs since ... I first wrote "Hello World" and somehow got a syntax error.<br>📚 I'm currently learning ... how to fix the bugs I created while learning something else.<br>🎯 Goals: Write code that works on the first try. (Dream big, right?)<br>🎲 Fun fact: My code doesn’t have bugs—just unexpected features!</p>
 
 ###
 
@@ -43,5 +43,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilramyy/nabilramyy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nabilramyy/nabilramyy/output/pacman-contribution-graph.svg">
 </picture>
-
-###
