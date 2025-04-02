@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nabil and I'm Sophomore , from Egypt</p>
+<p align="left">Hi, my name is Nabil. I'm a sophomore at Misr International University (MIU) in Egypt, passionate about learning new skills and exploring technology. I enjoy tackling challenges, working on projects that enhance my problem-solving skills, and continuously expanding my knowledge in software development. I'm always excited to connect, collaborate, and create innovative solutions!</p>
 
 ###
 
