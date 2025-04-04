@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nabil-ramy-5a015635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app " target="_blank">
-   <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg](https://www.linkedin.com/in/nabil-ramy-5a015635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )" width="60" height="40" alt="linkedin logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
  
   <a href="mailto:nabilramy2005@gmail.com" target="_blank">
