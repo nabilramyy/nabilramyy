@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Nabil. I'm a sophomore at Misr International University (MIU) in Egypt, passionate about learning new skills and exploring technology. I enjoy tackling challenges, working on projects that enhance my problem-solving skills, and continuously expanding my knowledge in software development. I'm always excited to connect, collaborate, and create innovative solutions!</p>
+<p align="left">My name is Nabil and I'm Sophomore , from Egypt</p>
 
 ###
 
@@ -11,6 +11,13 @@
 ###
 
 <p align="left">✨ Creating bugs since ... I first wrote "Hello World" and somehow got a syntax error.<br>📚 I'm currently learning ... how to fix the bugs I created while learning something else.<br>🎯 Goals: Write code that works on the first try. (Dream big, right?)<br>🎲 Fun fact: My code doesn’t have bugs—just unexpected features!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabilramyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilramyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=GitHub%20States" height="127" alt="stats graph"  />
+</div>
 
 ###
 
@@ -40,21 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-######
-
-<h3 align="left">Absolutely! Let's connect! 🤝</h3>
-
-###
-
-<div align="left">
- <a href="https://www.linkedin.com/in/nabil-ramy-5a015635a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
-</a>
-  <a href="mailto:nabilramy2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
 ###
 
 <picture>
@@ -62,3 +54,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nabilramyy/nabilramyy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nabilramyy/nabilramyy/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<h3 align="left">Absolutely! Let's connect! 🤝</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <a href="nabilramy2005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
